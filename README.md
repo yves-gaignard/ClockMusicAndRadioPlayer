@@ -1,5 +1,5 @@
-# ESPClockAndMusicPlayer
-Digital Clock and Music Player system
+# ESP32 Clock, Music and Radio Player
+Digital Clock, Music and Radio Player system
 
 The purpose of this system is to provide a big digital clock in an indoor pool including a music and radio player.
 
