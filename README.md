@@ -1,7 +1,7 @@
 # ESPClockAndMusicPlayer
 Digital Clock and Music Player system
 
-The purpose of this syetem is to provide a big digital clock in an indoor pool including a music player.
+The purpose of this system is to provide a big digital clock in an indoor pool including a music and radio player.
 
 ## main functionalities
 1. Digital Clock
