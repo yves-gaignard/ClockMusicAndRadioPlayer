@@ -5,9 +5,12 @@ The purpose of this syetem is to provide a big digital clock in an indoor pool i
 
 ## main functionalities
 1. Digital Clock
-2. Timer
-3. Alarm
-4. Chronometer
-5. Music player
+2. Countdown Timer
+3. Count Up Timer
+4. Time Alarm
+5. Chronometer
+6. Music player
+   - Parsing and decoding MOD, WAV, MP3, FLAC, MIDI, AAC, and RTTL files and playing them on an I2S DAC
    - From SD card
-   - From internet
+   - From internet streaming
+7. Radio player
